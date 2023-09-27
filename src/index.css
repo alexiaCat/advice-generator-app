@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button:hover {
+    filter: drop-shadow(0px 0px 30px hsla(150deg, 100%, 66%, 0.5));
+}
